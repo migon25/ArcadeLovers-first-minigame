@@ -1,2 +1,0 @@
-C:\Users\Fernando\Desktop\CITM\Quadri 2\Project 1\L4_SDL_Audio_handout\Build\Release\Scroller.exe
-D:\CITM\1st\Project 1\L4_SDL_Audio_handout2\Build\Release\Scroller.exe
