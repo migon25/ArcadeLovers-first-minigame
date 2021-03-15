@@ -20,13 +20,13 @@ This mini game is just a very small piece of the final game for our subject Proj
 
 ## Developers
 
-Fernando Almendro - code & leader
+* Fernando Almendro - code & leader
 
-Damià Fillat - Art & code
+* Damià Fillat - Art & code
 
-Gerard Martínez - QA & code
+* Gerard Martínez - QA & code
 
-Miguel Tamaño - designer & code
+* Miguel Tamaño - designer & code
 
 ## License
 
