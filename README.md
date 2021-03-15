@@ -1,8 +1,7 @@
 # ArcadeLovers-first-minigame
 Our first mini game
 
-# {Project Name}
-
+# Arcade Lovers mini game
 ## Description
 
 This mini game is just a very small piece of the final game for our subject Project I. It is not compleated, but it will be soon.:D
