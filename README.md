@@ -16,7 +16,12 @@ Our first mini game
  
 ## Controls
 
- - {ControlsScheme}
+ - Arrow keys:
+   -Move up: Upper key
+   -Move down: Down key
+   -Move left: Left key
+   -Move right: Right key
+  - Space: Shoot 
 
 ## Developers
 
