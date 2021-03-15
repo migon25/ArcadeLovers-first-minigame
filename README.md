@@ -27,7 +27,7 @@ Our first mini game
 
 ## Developers
 
- - {Dev01} - {Role(s)}
+ - {} - {Role(s)}
  - {Dev02} - {Role(s)}
  - {Dev03} - {Role(s)}
  - {Dev04} - {Role(s)}
