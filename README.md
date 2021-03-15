@@ -24,9 +24,9 @@ right key: go right
 ## Developers
 
 Fernando Almendro - code & leader
-Damià Fillat - code
-Gerard Martínez - code
-Miguel Tamaño - code
+Damià Fillat - Art & code
+Gerard Martínez - QA & code
+Miguel Tamaño - designer & code
 
 ## License
 
