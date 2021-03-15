@@ -23,7 +23,7 @@ right key: go right
 
 ## Developers
 
--Fernando Almendro - code & leader
+##Fernando Almendro - code & leader
 -Damià Fillat - Art & code
 -Gerard Martínez - QA & code
 -Miguel Tamaño - designer & code
