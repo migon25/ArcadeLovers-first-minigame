@@ -32,3 +32,4 @@ This mini game is just a very small piece of the final game for our subject Proj
 
 This project is licensed under an unmodified MIT license, which is an OSI-certified license that allows static linking with closed source software. Check [LICENSE](LICENSE) for further details.
 
+
