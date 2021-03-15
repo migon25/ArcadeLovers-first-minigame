@@ -7,6 +7,14 @@ Our first mini game
 
 This mini game is just a very small piece of the final game for our subject Project I. It is not compleated, but it will be soon.:D
 
+
+## Key Features
+
+ - {Feature01}
+ - {Feature02}
+ - {Feature03}
+ - {Feature04}
+
 ## Controls
 
 space key: shoot
