@@ -164,7 +164,7 @@ void Start()
 	Mix_OpenAudio(MIX_DEFAULT_FREQUENCY, MIX_DEFAULT_FORMAT, MIX_DEFAULT_CHANNELS, 1024);
 
 	// L4: TODO 2: Start playing loaded music
-	//state.music = Mix_LoadMUS("Assets/music.ogg");
+	state.music = Mix_LoadMUS("Assets/music.ogg");
 	state.fx_shoot = Mix_LoadWAV("Assets/laser.wav");
 
 	Mix_PlayMusic(state.music, -1);
