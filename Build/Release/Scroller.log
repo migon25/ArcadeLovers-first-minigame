@@ -1,9 +1,0 @@
-﻿  Main.cpp
-D:\CITM\1st\Project 1\zip files\MiniGame\MiniGame\Source\Main.cpp(173,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-D:\CITM\1st\Project 1\zip files\MiniGame\MiniGame\Source\Main.cpp(176,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
-  Generando código
-  2 of 10 functions (20.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Generación de código finalizada
-  Scroller.vcxproj -> D:\CITM\1st\Project 1\zip files\MiniGame\MiniGame\Build\Release\Scroller.exe
