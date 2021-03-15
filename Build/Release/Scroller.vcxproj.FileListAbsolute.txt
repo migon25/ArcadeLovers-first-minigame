@@ -1,0 +1,3 @@
+C:\Users\Fernando\Desktop\CITM\Quadri 2\Project 1\L4_SDL_Audio_handout\Build\Release\Scroller.exe
+C:\Users\user\Desktop\MiniGame\Build\Release\Scroller.exe
+D:\CITM\1st\Project 1\zip files\MiniGame\MiniGame\Build\Release\Scroller.exe
