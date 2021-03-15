@@ -10,6 +10,7 @@ This mini game is just a very small piece of the final game for our subject Proj
 ## Key Features
 
 vertical scrolling game
+
 shooter
 
 ## Controls
