@@ -9,17 +9,17 @@ This mini game is just a very small piece of the final game for our subject Proj
 
 ## Key Features
 
-vertical scrolling game
+*vertical scrolling game
 
-shooter
+*shooter
 
 ## Controls
 
-space key: shoot
-up key: move forward
-down key: move down
-left key: go left
-right key: go right
+* space key: shoot
+* up key: move forward
+* down key: move down
+* left key: go left
+* right key: go right
 
 ## Developers
 
@@ -31,5 +31,7 @@ Miguel Tamaño - designer & code
 ## License
 
 This project is licensed under an unmodified MIT license, which is an OSI-certified license that allows static linking with closed source software. Check [LICENSE](LICENSE) for further details.
+
+{AdditionalLicenses}
 
 {AdditionalLicenses}
