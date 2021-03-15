@@ -5,32 +5,22 @@ Our first mini game
 
 ## Description
 
-{project description}
+This mini game is just a very small piece of the final game for our subject Project I. It is not compleated, but it will be soon.:D
 
-## Key Features
-
- - {Feature01}
- - {Feature02}
- - {Feature03}
- - {Feature04}
- 
 ## Controls
 
- - Arrow keys:
-   
-   -Move up: Upper key
-   -Move down: Down key
-   -Move left: Left key
-   -Move right: Right key
- 
- - Space: Shoot 
+space key: shoot
+up key: move forward
+down key: move down
+left key: go left
+right key: go right
 
 ## Developers
 
- - {} - {Role(s)}
- - {Dev02} - {Role(s)}
- - {Dev03} - {Role(s)}
- - {Dev04} - {Role(s)}
+Fernando Almendro - code & leader
+Damià Fillat - code
+Gerard Martínez - code
+Miguel Tamaño - code
 
 ## License
 
